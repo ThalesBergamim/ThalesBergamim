@@ -1,4 +1,4 @@
-<h3 align="left">Tecnologias</h3>
+<h3 align="left">Tecnologias e Frameworks</h3>
 
 ###
 
@@ -35,18 +35,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThalesBergamim&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2&custom_title=Principais%20Linguagens" height="160" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Meu Linkedin</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thales-bergamim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
